@@ -68,11 +68,11 @@
 </p>
 <p align="right">
  𝘐𝘯 𝘮𝘺 𝘧𝘳𝘦𝘦 𝘵𝘪𝘮𝘦, 𝘐 𝘦𝘯𝘫𝘰𝘺 𝘤𝘺𝘤𝘭𝘪𝘯𝘨, 𝘩𝘪𝘬𝘪𝘯𝘨, 𝘥𝘳𝘢𝘸𝘪𝘯𝘨 𝘪𝘯 <br>𝘗𝘳𝘰𝘤𝘳𝘦𝘢𝘵𝘦, 𝘤𝘳𝘰𝘤𝘩𝘦𝘵𝘪𝘯𝘨 𝘈𝘮𝘪𝘨𝘶𝘳𝘶𝘮𝘪 𝘵𝘰𝘺𝘴,  𝘢𝘯𝘥 𝘴𝘱𝘦𝘯𝘥𝘪𝘯𝘨 𝘵𝘪𝘮𝘦 𝘸𝘪𝘵𝘩 𝘮𝘺 𝘤𝘢𝘵</a>. <br>
-<img align="right" width="100"  src= "images/1 (16).JPG">
+
   
 </p> 
 <br>
 <br>
 <br>
 
-![](https://komarev.com/ghpvc/?username=IngaJumir&color=yellow)
+
