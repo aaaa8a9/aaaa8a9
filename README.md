@@ -13,7 +13,7 @@
 
 ## QA Automation AI Engineer 
 #### 10+ years of experience in manual and automation testing
-<img align="right" width="635" height="535" src="https://photos.fife.usercontent.google.com/pw/AP1GczMWYiqrVqn_EZTL4r2ahkq7LYEZFE74HdnLcaW-SHM-g01RaWQe9vuz-w=w975-h1463-s-no-gm?authuser=0">
+<img align="right" width="635" height="535" src="https://photos.fife.usercontent.google.com/pw/AP1GczMWYiqrVqn_EZTL4r2ahkq7LYEZFE74HdnLcaW-SHM-g01RaWQe9vuz-w=w975-h1463-s-no-gm">
 <br>
 <br>
 
