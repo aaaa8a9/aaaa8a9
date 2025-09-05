@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=27F5CC&size=29&multiline=true&width=700&lines=Hello+World!+Welcome+To+My+GitHub+Profile!)](https://git.io/typing-svg)
 <div align="right" >
-<img align="right" width="150" height="150" src= "/cartoon picture of a.png">
+<img align="left" width="150" height="150" src= "/cartoon picture of a.png">
 <br>
 <br>
   
