@@ -47,10 +47,10 @@ I break things so you don’t have to. Unless you're a cat. Then knock it off th
 <details>
 <summary>Connect with me: aaaa8a9@gmail.com</summary>
 <br>
-
+</details>
 <img align="left" width="150" height="150" src= "/leave the same but c.png">
 
-</details>
+
 
 &ensp;&emsp;<img  width="85"  src= "images/1 (26).JPG">
 
