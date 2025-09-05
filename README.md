@@ -13,7 +13,7 @@
 
 ## QA Automation AI Engineer 
 #### 10+ years of experience in manual and automation testing
-<img align="right" width="635" height="535" src="/make this cartoon pi.png">
+<img align="right" width="635" height="335" src="/make this cartoon pi.png">
 <br>
 <br>
 
