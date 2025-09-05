@@ -22,7 +22,7 @@ I break things so you don’t have to. Unless you're a cat. Then knock it off th
 
 <br>
 
-&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="Github" width="35"/>
+
 &emsp;<img alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
 &ensp;<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" title="Java" width="46"/><br>
 &emsp;<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" title="IntelliJ" width="30"/>
@@ -49,7 +49,7 @@ I break things so you don’t have to. Unless you're a cat. Then knock it off th
 <br>
 
 
-[<img width="80px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:ingajumir@gmail.com)
+[<img width="80px" alt="Gmail" src="/leave the same but c.png" />](mailto:aaaa8a9@gmail.com)
 </details>
 
 &ensp;&emsp;<img  width="85"  src= "images/1 (26).JPG">
