@@ -49,7 +49,7 @@ I break things so you don’t have to. Unless you're a cat. Then knock it off th
 <br>
 
 
-[<img width="150px" alt="Gmail" src="/leave the same but c.png">](mailto:aaaa8a9@gmail.com)
+[<img width="150" src="/leave the same but c.png">](mailto:aaaa8a9@gmail.com)
 </details>
 
 &ensp;&emsp;<img  width="85"  src= "images/1 (26).JPG">
